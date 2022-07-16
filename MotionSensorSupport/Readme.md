@@ -2,8 +2,8 @@
 
 Model:
 
-![Model](MotionSensorSupport/MotionSensorSupport.png)
+![Model](MotionSensorSupport.png)
 
 Result:
 
-![Result](MotionSensorSupport/result.jpg)
+![Result](result.jpg)
